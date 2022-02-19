@@ -1,1 +1,2 @@
 # Major-Project-Potato-Leaf-Disease-Detection
+##Basically we have plant village datset that is available on kaggle. The images used in the dataset are from Switzerland region, we do not have any dataset of potato leaf from Indian region, but we have a datset from Pakistan region, as India and Pakistan share alike geographical condition so there will be  the maximum similarity between the leafs of potato from Indian region and Pakistani region. So first we train and test our model on Plant Village dataset then we will test our real accuracy on Pakistan dataset. 
